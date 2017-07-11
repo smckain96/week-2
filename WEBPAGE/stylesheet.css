@@ -1,0 +1,34 @@
+div {
+  display: inline-block;
+  border: 5px solid black;
+  box-sizing: border-box;
+  height: 200px;
+  width: 200px;
+}
+
+.container {
+  background-color: #efefef;
+  height: inherit;
+}
+
+body {
+  height: 100vh;
+}
+
+.red {
+  color: fuchsia;
+  background-color: fuchsia;
+}
+
+.blue {
+  background-color: blue;
+  font-style: Wingdings;
+}
+
+section .yellow {
+  background-color: maroon;
+}
+
+.box {
+  border-radius: 50%
+}
